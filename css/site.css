@@ -1,0 +1,452 @@
+﻿/* Write your CSS
+-----------------------------------------------------*/
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+body{
+    background-image:url("../assets/background.jpg");
+}
+
+.head {
+    padding-left: 32px;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #3f51b5;
+}
+
+.brand {
+    letter-spacing: 2px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #B3E5FC;
+    font-weight: bold;
+    transition: 1s all;
+}
+.brand:hover {
+    color: #FFF9C4;
+    text-shadow: 0 0 2px black;
+    text-decoration: none;
+}
+
+div.loading {
+    width:100%;
+    font-size:120px;
+    font-weight:bold;
+    text-align:center;
+    animation: mymove 2.5s infinite alternate-reverse;
+    -moz-animation: mymove 2.5s infinite alternate-reverse; /*Firefox*/
+    -webkit-animation: mymove 2.5s infinite alternate-reverse; /*Safari and Chrome*/
+}
+
+@keyframes mymove {
+    from {
+        color: #FFFFFF22;
+    }
+
+    to {
+        color: #FFFFFF88;
+    }
+}
+
+@-moz-keyframes mymove { /*Firefox*/
+    from {
+        color: #FFFFFF22;
+    }
+
+    to {
+        color: #FFFFFF88;
+    }
+}
+
+@-webkit-keyframes mymove { /*Safari and Chrome*/
+    from {
+        color: #FFFFFF22;
+    }
+
+    to {
+        color: #FFFFFF88;
+    }
+}
+
+
+.bg-img {
+    background: center/contain no-repeat padding-box;
+    text-align: center;
+}
+
+.bg-img-g, .bg-img-gr {
+    border: 5px solid transparent;
+    background: center/contain no-repeat padding-box border-box #e0e0e0;
+    text-align: center;
+}
+
+.bg-img-gr {
+    border-radius: 16px;
+}
+
+.bg-l {
+    background-position: center left;
+}
+
+.bg-r {
+    background-position: center right;
+}
+
+.bg-t {
+    background-position: top center;
+}
+
+.bg-b {
+    background-position: bottom center;
+}
+
+.shadowtext, .shadowtext-1, .shadowtext-2, .shadowtext-3, .shadowtext-4, .shadowtext-5 {
+    cursor: default;
+    font-weight: bold;
+    color: white;
+    text-shadow: -1px -1px 1px #000, 1px -1px 1px #000, -1px 1px 1px #000, 1px 1px 1px #000;
+    text-align: center;
+}
+
+.shadowtext-1 {
+    font-size: 1.75rem;
+}
+
+.shadowtext-2 {
+    font-size: 1.5rem;
+}
+
+.shadowtext-3 {
+    font-size: 1.25rem;
+}
+
+.shadowtext-4 {
+    font-size: 1rem;
+}
+
+.shadowtext-5 {
+    font-size: 0.8rem;
+}
+
+.item-level {
+    width: 36px;
+    background-image: url('/assets/icon/level_blue.png');
+    line-height: 40px;
+}
+
+[quality='0'] {
+    color: rgba(255,255,255,1);
+}
+
+[quality='1'] {
+    color: rgba(48,217,97,1);
+}
+
+[quality='2'] {
+    color: rgba(63,105,246,1);
+}
+
+[quality='3'] {
+    color: rgba(60,204,244,1);
+}
+
+[quality='4'] {
+    color: rgba(174,84,243,1);
+}
+
+[quality='5'] {
+    color: rgba(237,202,38,1);
+}
+
+[quality='6'],
+[quality='7'],
+[quality='8'],
+[quality='9'],
+[quality='10'],
+[quality='11'],
+[quality='12'],
+[quality='13'],
+[quality='14'],
+[quality='15'],
+[quality='16'] {
+    color: rgba(255,0,0,1);
+}
+
+.gray {
+    -moz-filter: alpha(opacity = 30);
+    -ms-filter: alpha(opacity = 30);
+    filter: alpha(opacity = 30);
+    opacity: 0.3;
+}
+
+.item {
+    height: 40px;
+    align-items: center;
+}
+
+.i-p {
+    width: 48px;
+    text-align: center;
+}
+
+.i-p-c {
+    width: 32px;
+    height: 32px;
+    background: center/contain no-repeat;
+}
+
+.i-t {
+    width: 168px;
+    line-height: 32px;
+    flex-direction: row;
+    display: flex;
+    position:relative;
+}
+
+.item-price {
+    width: 120px;
+    text-align: right;
+    background-image: url('/assets/icon/gold.png');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-right: 26px;
+}
+
+.item-power {
+    width: 80px;
+    text-align: right;
+    background-image: url('/assets/icon/power.png');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-right: 26px;
+}
+
+.item-xp {
+    width: 116px;
+    text-align: right;
+}
+
+.small {
+    padding-left: 5px;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.57);
+}
+
+.item-time {
+    width: 110px;
+    text-align: right;
+    background-image: url('/assets/icon/time.png');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-right: 26px;
+}
+
+.i-po {
+    width: 170px;
+    display: flex;
+    letter-spacing: 1px;
+}
+
+.i-pa {
+    position: relative;
+    margin: 0 2px;
+    width: 68px;
+    cursor: default;
+    font-weight: bold;
+    text-shadow: -1px -1px 1px #000, 1px -1px 1px #000, -1px 1px 1px #000, 1px 1px 1px #000;
+    text-align: center;
+    border: 3px solid transparent;
+    border-radius: 16px;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    background-color: #e0e0e0;
+}
+
+.item-resource {
+    height: 32px;
+    width: 32px;
+}
+
+.item-price-per {
+    width: 135px;
+    text-align: right;
+    background-image: url('/assets/icon/gold.png');
+    background-position: 75% center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items:center;
+    justify-content:flex-end;
+}
+
+.item-xp-per {
+    width: 120px;
+    text-align: right;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.form-skill-item {
+    width: 70px;
+    padding: 75px 5px 5px 5px;
+    background-size: contain;
+    background-position: center 0;
+    background-repeat: no-repeat;
+}
+
+.input-skill {
+    text-align: center;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #737373
+}
+
+.modal-center-screen {
+    position: absolute;
+    max-width: 1200px;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sort-label {
+    width: 100%;
+    display: inline-flex;
+    flex-flow:row nowrap;
+    align-items:center;
+}
+
+.sort-icon {
+    padding:0;
+    text-align:center;
+}
+
+.filter-itemtype-content {
+    width: 44px;
+    height: 44px;
+    border: 1px solid rgba(0,0,0,0.17);
+    cursor: pointer;
+    border-radius: 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 2px;
+}
+
+.filter-itemtype-content-weapon {
+    background-color: rgba(202,49,49,1);
+}
+
+.filter-itemtype-content-body {
+    background-color: rgba(9,182,240,1);
+}
+
+.filter-itemtype-content-jewelry {
+    background-color: rgba(39,198,140,1);
+}
+
+.filter-itemtype-content-usable {
+    background-color: rgba(255,211,93,1);
+}
+
+.filter-itempack-content {
+    width: 76px;
+    height: 76px;
+    background-color: rgba(0,0,0,0.03);
+    border: 1px solid rgba(0,0,0,0.17);
+    cursor: pointer;
+    margin: 1px;
+    border-radius: 3px;
+    position: relative;
+    display: flex;
+}
+
+.filter-itempack-image {
+    margin: 3px;
+    width: 68px;
+    height: 68px;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.filter-itempack-text {
+    font-weight: bold;
+    font-size: 12px;
+    text-shadow: 0 1px 1px #000, 0 -1px 1px #000, 1px 0 1px #000, -1px 0 1px #000;
+    position: absolute;
+    color: rgba(255,255,255,1);
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,0.37);
+    min-height: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.subheader {
+    line-height: 40px;
+    font-weight: bold;
+    color: rgba(0,0,0,0.54);
+}
+
+.filter-line {
+    padding: 8px 24px;
+    border-bottom: 1px solid rgba(0,0,0,0.07);
+}
+
+.filter-itemprecraft {
+    cursor: pointer;
+    background-color: rgba(0,0,0,0.07);
+    border: 1px solid rgba(0,0,0,0.17);
+    padding: 4px;
+    margin: 2px;
+    border-radius: 3px;
+    width: 64px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0 1px 1px #000, 0 -1px 1px #000, 1px 0 1px #000, -1px 0 1px #000;
+}
+
+.detail-title {
+    font-size: 1.5rem;
+    line-height: 60px;
+}
+
+.detail-usedin {
+    background-color: #e0e0e0;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.detail-progression-text {
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 1px 1px #000, 0 -1px 1px #000, 1px 0 1px #000, -1px 0 1px #000;
+    font-size: 22px;
+}
+
+.detail-progression-footer {
+    font-weight: bold;
+    font-size: 12px;
+    opacity: 0.57;
+}
+
+.detail-quality {
+    font-weight: bold;
+    align-items: center;
+    margin: 0 -15px 5px -15px;
+    padding-right: 15px;
+    background-color: #e0e0e0;
+}
