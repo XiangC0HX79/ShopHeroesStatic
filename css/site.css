@@ -191,13 +191,8 @@ div.loading {
 
 .i-p {
     width: 48px;
-    text-align: center;
-}
-
-.i-p-c {
-    width: 32px;
-    height: 32px;
-    background: center/contain no-repeat;
+    justify-content: center;
+    display: flex;
 }
 
 .i-t {
@@ -211,7 +206,7 @@ div.loading {
 .item-price {
     width: 120px;
     text-align: right;
-    background-image: url('/assets/icon/gold.png');
+    background-image: url('/assets/icon/gold-32.png');
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
@@ -221,7 +216,7 @@ div.loading {
 .item-power {
     width: 80px;
     text-align: right;
-    background-image: url('/assets/icon/power.png');
+    background-image: url('/assets/icon/power-32.png');
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
@@ -242,7 +237,7 @@ div.loading {
 .item-time {
     width: 110px;
     text-align: right;
-    background-image: url('/assets/icon/time.png');
+    background-image: url('/assets/icon/time-32.png');
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
@@ -279,7 +274,7 @@ div.loading {
 .item-price-per {
     width: 135px;
     text-align: right;
-    background-image: url('/assets/icon/gold.png');
+    background-image: url('/assets/icon/gold-32.png');
     background-position: 75% center;
     background-size: contain;
     background-repeat: no-repeat;

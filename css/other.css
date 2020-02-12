@@ -1,0 +1,899 @@
+﻿.starter_f {
+    height: 32px;
+    width: 32px;
+    background-position: 0 0;
+}
+
+.starter_e {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -32px;
+}
+
+.steel {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -64px;
+}
+
+.stasis2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -96px;
+}
+
+.starter_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -128px;
+}
+
+.starter {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -160px;
+}
+
+.sparkles2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -192px;
+}
+
+.starter_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -224px;
+}
+
+.starter_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -256px;
+}
+
+.summer2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -288px;
+}
+
+.summer2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -320px;
+}
+
+.sweets2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -352px;
+}
+
+.supervalue {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -384px;
+}
+
+.summer2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -416px;
+}
+
+.summer_2017_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -448px;
+}
+
+.summer_2017_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -480px;
+}
+
+.summer_2017_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -512px;
+}
+
+.summer_2017_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -544px;
+}
+
+.school {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -576px;
+}
+
+.penguin2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -608px;
+}
+
+.penguin2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -640px;
+}
+
+.pirate2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -672px;
+}
+
+.penguin2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -704px;
+}
+
+.oil {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -736px;
+}
+
+.magicsuitcase {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -768px;
+}
+
+.magicstorage {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -800px;
+}
+
+.ninja {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -832px;
+}
+
+.mana {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -864px;
+}
+
+.sakura2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -896px;
+}
+
+.royalwedding2018_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -928px;
+}
+
+.sakura2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -960px;
+}
+
+.sakura2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -992px;
+}
+
+.royalwedding2018_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1024px;
+}
+
+.pirate2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1056px;
+}
+
+.pirate2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1088px;
+}
+
+.royalwedding2018_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1120px;
+}
+
+.prosperitypig_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1152px;
+}
+
+.sweets2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1184px;
+}
+
+.wacky2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1216px;
+}
+
+.valentine_2017_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1248px;
+}
+
+.winter {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1280px;
+}
+
+.warrior {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1312px;
+}
+
+.valentine_2017_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1344px;
+}
+
+.usa2017_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1376px;
+}
+
+.usa2017_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1408px;
+}
+
+.valentine_2017_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1440px;
+}
+
+.valentine_2017_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1472px;
+}
+
+.winterwonder2018_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1504px;
+}
+
+.winterwonder2018_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1536px;
+}
+
+.wood {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1568px;
+}
+
+.wizard {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1600px;
+}
+
+.winterwonder2018_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1632px;
+}
+
+.winter_2016_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1664px;
+}
+
+.winter_2016_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1696px;
+}
+
+.winter_2016_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1728px;
+}
+
+.winter_2016_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1760px;
+}
+
+.usa2017_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1792px;
+}
+
+.thanksgiving2017_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1824px;
+}
+
+.thanksgiving_2016_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1856px;
+}
+
+.thanksgiving2017_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1888px;
+}
+
+.thanksgiving2017_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1920px;
+}
+
+.thanksgiving_2016_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1952px;
+}
+
+.thanksgiving {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -1984px;
+}
+
+.sweets2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2016px;
+}
+
+.thanksgiving_2016_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2048px;
+}
+
+.thanksgiving_2016_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2080px;
+}
+
+.tutorial {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2112px;
+}
+
+.transmuter2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2144px;
+}
+
+.usa2017_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2176px;
+}
+
+.ufo2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2208px;
+}
+
+.timelimit {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2240px;
+}
+
+.threekingdoms2018_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2272px;
+}
+
+.thanksgiving2017_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2304px;
+}
+
+.threekingdoms2018_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2336px;
+}
+
+.threekingdoms2018_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2368px;
+}
+
+.cyberpunk2020_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2400px;
+}
+
+.cityvscity {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2432px;
+}
+
+.cyberpunk2020_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2464px;
+}
+
+.cyberpunk2020_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2496px;
+}
+
+.cityraid {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2528px;
+}
+
+.cincodemayo2017_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2560px;
+}
+
+.cincodemayo2017_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2592px;
+}
+
+.cincodemayo2017_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2624px;
+}
+
+.cincodemayo2017_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2656px;
+}
+
+.dragon2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2688px;
+}
+
+.disrupt2_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2720px;
+}
+
+.dragon2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2752px;
+}
+
+.dragon2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2784px;
+}
+
+.disrupt2_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2816px;
+}
+
+.disrupt1_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2848px;
+}
+
+.disrupt1_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2880px;
+}
+
+.disrupt2_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2912px;
+}
+
+.disrupt1_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2944px;
+}
+
+.christmas_2016_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -2976px;
+}
+
+.charity_osd {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3008px;
+}
+
+.celtic2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3040px;
+}
+
+.chest_gold {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3072px;
+}
+
+.chest_dwarvish {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3104px;
+}
+
+.celtic2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3136px;
+}
+
+.blackmarket {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3168px;
+}
+
+.advancedshopfare {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3200px;
+}
+
+.celtic2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3232px;
+}
+
+.bundleup {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3264px;
+}
+
+.christmas_2016_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3296px;
+}
+
+.christmas {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3328px;
+}
+
+.christmas_2016_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3360px;
+}
+
+.christmas_2016_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3392px;
+}
+
+.chest_wood {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3424px;
+}
+
+.chest_leather {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3456px;
+}
+
+.chest_iron {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3488px;
+}
+
+.chest_primal {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3520px;
+}
+
+.chest_magic {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3552px;
+}
+
+.easter2017_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3584px;
+}
+
+.herb {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3616px;
+}
+
+.hardwood {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3648px;
+}
+
+.int_relic001gold01 {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3680px;
+}
+
+.hero_yue {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3712px;
+}
+
+.halloween2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3744px;
+}
+
+.halloween2018_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3776px;
+}
+
+.halloween2018_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3808px;
+}
+
+.halloween2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3840px;
+}
+
+.halloween2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3872px;
+}
+
+.jungle2019_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3904px;
+}
+
+.jungle2019_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3936px;
+}
+
+.magician_ {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -3968px;
+}
+
+.magician {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4000px;
+}
+
+.jungle2019_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4032px;
+}
+
+.int_relic003gold01 {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4064px;
+}
+
+.int_relic002gold01 {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4096px;
+}
+
+.jack {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4128px;
+}
+
+.iron {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4160px;
+}
+
+.epic {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4192px;
+}
+
+.egyptian2018_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4224px;
+}
+
+.flowers2020_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4256px;
+}
+
+.fabric {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4288px;
+}
+
+.egyptian2018_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4320px;
+}
+
+.easter2017_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4352px;
+}
+
+.easter2017_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4384px;
+}
+
+.egyptian2018_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4416px;
+}
+
+.easter2017_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4448px;
+}
+
+.halloween_2016_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4480px;
+}
+
+.halloween_2016_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4512px;
+}
+
+.halloween2018_b {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4544px;
+}
+
+.halloween_2016_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4576px;
+}
+
+.halloween_2016_a {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4608px;
+}
+
+.flowers2020_c {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4640px;
+}
+
+.flowers2020_d {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4672px;
+}
+
+.halloween {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4704px;
+}
+
+.gems {
+    height: 32px;
+    width: 32px;
+    background-position: 0 -4736px;
+}
+
+.leather {
+    height: 32px;
+    width: 35px;
+    background-position: 0 -4768px;
+}
